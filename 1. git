@@ -1,0 +1,15 @@
+# commit 불러오기
+git log -> log 확인
+git checkout [commit log]
+
+# commit push
+github에 repository 생성
+git remote add origin [repository commit 주소]
+git push origin master
+
+# commit clone
+git clone [repository commit 주소]
+
+git add [작업/수정 파일]
+git commit -m "새 commit name"
+git push origin master
